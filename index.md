@@ -64,7 +64,7 @@ img:hover {
 <body>
 
 <a target="_blank" href="https://drive.google.com/file/d/1C1dfL9yqfZ4M3aXDa1jkLwAZogOgnmU_/preview">
-  <img src="https://drive.google.com/file/d/1C1dfL9yqfZ4M3aXDa1jkLwAZogOgnmU_/preview" alt="Body">
+  <img src="https://drive.google.com/file/d/1C1dfL9yqfZ4M3aXDa1jkLwAZogOgnmU_/preview" alt="Soul">
 </a>
 
 </body>
