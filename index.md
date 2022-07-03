@@ -23,7 +23,7 @@ img:hover {
 </style>
 <body>
 
-<a target="_blank" href="img_forest.jpg">
+<a target="_blank" href="https://drive.google.com/file/d/1hhuKmugbsNHRpw0ERg7Otg5WMw6facCQ/preview">
   <img src="https://drive.google.com/file/d/1hhuKmugbsNHRpw0ERg7Otg5WMw6facCQ/preview" alt="Mind">
 </a>
 
