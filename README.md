@@ -54,6 +54,6 @@ Ideas and Concepts class, as some of the projects in that class also related to 
 soul. It is a way of expressing myself through images that I think relate to me. I show off both the positive
 and negative aspects of myself, so that those who view these images do not only learn about the positive
 part of me.</p>
-<a href="https://drive.google.com/drive/u/1/folders/1JNwSyLrsfpmNjbF0kYtgPkM0X1ZCcb8o">Process Book</a>
+<a href="https://drive.google.com/file/d/1neVbPBMBj9NrBDxcGHEQSmMid6aqC_tm/view">Process Book</a>
 
 <a href="https://gavin-casey.github.io/index.html/">Index</a>
